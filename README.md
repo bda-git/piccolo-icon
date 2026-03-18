@@ -12,3 +12,4 @@ This includes:
 * Standard application icon
 * Develop application icon
 * Monochrome symbolic icon
+* Icon source svg
